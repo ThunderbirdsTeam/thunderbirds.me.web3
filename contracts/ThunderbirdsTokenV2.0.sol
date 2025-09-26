@@ -1,3 +1,10 @@
+//****************************************************
+//
+//    THUNDERBIRDS.ME INC. web extension app & service
+//    
+//    @copyright 2025 THUNDERBIRDS.ME INC.
+//
+//***************************************************/
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
