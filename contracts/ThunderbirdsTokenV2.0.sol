@@ -36,7 +36,7 @@ contract ThunderbirdsTokenV2 is IBEP20 {
      * @param _name Token name (e.g., "Thunderbirds Token V2").
      * @param _symbol Token symbol (e.g., "TBIRDV2").
      * @param _decimals Number of decimal places (usually 18).
-     * @param _initialSupply Initial total supply (without decimals; e.g., 150000000 with scale 10 for 0.15 billion tokens).
+     * @param _initialSupply Initial total supply (without decimals; e.g., 800,000,000 with scale 10 for 0.8 billion tokens).
      */
     constructor(
         string memory _name,
